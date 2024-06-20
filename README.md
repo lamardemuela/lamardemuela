@@ -7,8 +7,8 @@
 ## Technologies & Tools
 - 👀 **Frontend**: HTML | CSS | Javascript | React
 - ⛓️ **Backend**: Node.js | Express.js | MongoDB | Mongoose
-- 🎛️ Control de versiones: Git | GitHub
-- 🌐 Desarrollo MERN Stack
+- 🎛️ Version control: Git | GitHub
+- 🌐 MERN Stack
 
 ## Featured Projects
 | 🐶 Umapp| 🍽️ Crudo App            | 🍕 Peperoni Project        | 
